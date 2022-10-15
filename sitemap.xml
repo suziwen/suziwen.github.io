@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://www.xiaoshujiang.com/tags/文档/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/tags/小书匠/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/tags/webdav/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/tags/网盘/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/tags/葫芦儿派盘/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/教程/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/图床/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.xiaoshujiang.com/tags/小书匠/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/升级/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/日志/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/会员/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -42,7 +46,6 @@
 <url> <loc>http://www.xiaoshujiang.com/tags/技术支持/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/privacy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/隐私/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.xiaoshujiang.com/tags/文档/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/花田日记/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/使用说明/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/视频/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -370,6 +373,7 @@
 <url> <loc>http://www.xiaoshujiang.com/logs/version/v_0_2_4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/logs/version/v_0_2_2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/logs/version/v_0_2_0/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/blog/webdav/huluer_intro/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/blog/story-writer/vip-feature/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/blog/story-writer/database/sub_database_sync/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/blog/database/setup_custom_pouchdb_server/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
