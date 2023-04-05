@@ -422,4 +422,5 @@
 <url> <loc>http://www.xiaoshujiang.com/pdf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/price/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/temp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
