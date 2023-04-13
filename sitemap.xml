@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://www.xiaoshujiang.com/tags/升级/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/tags/日志/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/tags/小书匠/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/markdown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/语法/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/公式/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.xiaoshujiang.com/tags/小书匠/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/mathjax/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.xiaoshujiang.com/tags/升级/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.xiaoshujiang.com/tags/日志/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/文档/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/pdf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/批注/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -217,6 +217,7 @@
 <url> <loc>http://www.xiaoshujiang.com/docs/tutorial/email/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/docs/grammar/feature/code_chunk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/logs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/logs/version/v_8_12_6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/logs/version/v_8_12_0/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/logs/version/v_8_11_0/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/logs/version/v_8_10_2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
