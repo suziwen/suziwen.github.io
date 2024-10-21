@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://www.xiaoshujiang.com/tags/文档/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/小书匠/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/tags/jopp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/tags/插件/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/tags/pdf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/数据库/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/升级/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/日志/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -12,7 +16,6 @@
 <url> <loc>http://www.xiaoshujiang.com/tags/mathjax/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/化学/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/公式/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.xiaoshujiang.com/tags/文档/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/知识管理/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/文件管理/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/萤火虫/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -20,7 +23,6 @@
 <url> <loc>http://www.xiaoshujiang.com/tags/文章管理/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/文件列表/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/会员/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.xiaoshujiang.com/tags/pdf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/批注/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/阅读/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/tags/引用/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -381,6 +383,7 @@
 <url> <loc>http://www.xiaoshujiang.com/logs/version/v_0_2_4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/logs/version/v_0_2_2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/logs/version/v_0_2_0/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.xiaoshujiang.com/blog/chrome/just_one_page_pdf_integration/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/blog/story-writer/how-change-database-location/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/blog/story-writer/mathjax-chem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.xiaoshujiang.com/blog/file_manager/timeline_firefly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
